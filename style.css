@@ -1,0 +1,16 @@
+html {
+    background-color: azure;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 16;
+}
+
+td {
+    font-size: 10;
+}
