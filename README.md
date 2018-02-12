@@ -1,4 +1,4 @@
 # thevinnie.github.com
-Just because GitHub gives you a free public page means you should use it, right?
+Working on trying to develop a blog using Jekyll and Github.
 
-The only real purpose for me here would be to tinker.
+The tools are really easy to use and the fact that Github allows you to host a site like this makes it sort of a no brainer.  Being less familiar with web publishing, I'm going to use this for a test ground.
