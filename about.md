@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Vinnie and this is something I've been wanting to do for a while.  This blog is developed using Jekyll and is hosted on Github.  For the past 15 years, I've been working with data and databases at organizations large and small.  I really enjoy working with the Microsoft Data Platform, but also really just like working with interesting people trying to solve problems.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+With any luck, the inforamtion that I'm posting on this site will be useful to a few people.  I make no promises about how often it'll be updated, or the nature of the subject matter.
